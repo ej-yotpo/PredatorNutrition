@@ -17,7 +17,7 @@
 }
 
 body {
-  background-color: var(--generic-template-background) !important;
+  background-color: #fff !important;
 }
 
 .template-header {
